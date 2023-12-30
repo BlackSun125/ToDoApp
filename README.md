@@ -7,10 +7,6 @@ Là ứng cross-platform, có thể sử dụng trên cả nền tảng android 
 
 ## developer
 
-* Lê Sỹ Hội - [contact](https://www.facebook.com/syhoi.le.9?mibextid=ZbWKwL)
- 
-Software engineering - University of Information Technology
-    
 * Ngô Quang Khoa 
    
 Software engineering - University of Information Technology 
